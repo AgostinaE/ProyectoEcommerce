@@ -5,47 +5,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
-  <style>
-    .offer-banner-full {
-      position: absolute;
-      top: 15%;
-      left: 0;
-      transform: translateY(-50%);
-      width: 100%;
-      height: auto;
-      background: rgba(255, 0, 0, 0.5);
-      color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      font-size: 1.5em;
-      text-transform: uppercase;
-      z-index: 1;
-    }
-
-    .card-img-top {
-      width: 100%;
-      height: 200px;
-      object-fit: scale-down;
-      padding: 10px;
-    }
-
-    .card-title-top {
-      width: 100%;
-      height: 100px;
-      object-fit: scale-down;
-      padding: 10px;
-      font-size: 15px;
-    }
-
-    .custom-tooltip-card {
-      width: 100%;
-      height: 60px;
-      object-fit: scale-down;
-      padding: 10px;
-      font-size: 15px;
-    }
-  </style>
+  <link rel="stylesheet" href="../styles/styles.css">
+  <script src="../js/main.js"></script>
   <title>Tienda Online</title>
 </head>
 
@@ -140,46 +101,12 @@
     </div>
   </div>
   <footer class="py-3 my-4">
-    <p class="text-center text-muted">© 2024 Company, Inc</p>
+    <p class="text-center text-muted">© 2024 Agostina Company, Inc</p>
   </footer>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"
     integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
     crossorigin="anonymous"></script>
   <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-  <script>
-    function aumentarContadorCarrito() {
-      let carritoCounter = document.getElementById('carritoCounter');
-      let contadorActual = parseInt(carritoCounter.textContent);
-      carritoCounter.textContent = contadorActual + 1;
-    }
-
-    function agregarAlCarrito(producto) {
-      const botonAgregar = event.target;
-      botonAgregar.disabled = true;
-      fetch('/api/agregarCarrito', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ producto: producto })
-      })
-        .then(response => {
-          if (!response.ok) {
-            throw new Error('Error al agregar al carrito');
-          }
-          botonAgregar.classList.remove('btn-warning');
-          botonAgregar.classList.add('btn-success');
-          botonAgregar.textContent = 'En carrito de compras';
-          aumentarContadorCarrito();
-        })
-        .catch(error => {
-          console.error('Error:', error);
-        });
-    }
-    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-      return new bootstrap.Tooltip(tooltipTriggerEl)
-    })</script>
 </body>
 
 </html>
