@@ -1,0 +1,140 @@
+[
+  {
+    "productosComprados": [
+      {
+        "id": 1,
+        "title": "Fjallraven - Mochila Foldsack No. 1, con capacidad para 15 portátiles",
+        "price": 109.95,
+        "description": "Tu mochila perfecta para el uso diario y los paseos por el bosque. Guarde su computadora portátil (hasta 15 pulgadas) en la funda acolchada, su uso diario",
+        "category": "men&#39;s clothing",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "discount_percentage": 0,
+        "discounted_amount": 0,
+        "final_price": 0,
+        "quantity": 2
+      },
+      {
+        "id": 3,
+        "title": "Chaqueta de algodón para hombre",
+        "price": 55.99,
+        "description": "excelentes chaquetas de abrigo para primavera/otoño/invierno, adecuadas para muchas ocasiones, como trabajar, hacer caminatas, acampar, escalar montañas/rocas, andar en bicicleta, viajar u otras actividades al aire libre. Buena opción de regalo para usted o su familiar. Un cariñoso amor para el padre, el esposo o el hijo en este día de Acción de Gracias o Navidad.",
+        "category": "men&#39;s clothing",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "discount_percentage": 15,
+        "discounted_amount": 8.3985,
+        "final_price": 47.5915,
+        "quantity": 2
+      },
+      {
+        "id": 7,
+        "title": "Princesa chapada en oro blanco",
+        "price": 9.99,
+        "description": "Anillo de promesa de diamante solitario de compromiso de boda de creación clásica para ella. Regalos para mimar más tu amor para Compromiso, Boda, Aniversario, Día de San Valentín...",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "discount_percentage": 0,
+        "discounted_amount": 0,
+        "final_price": 0,
+        "quantity": 1
+      }
+    ],
+    "totalCompra": 325.07,
+    "fecha": "19/04/2024 7:17:16 PM"
+  },
+  {
+    "productosComprados": [
+      {
+        "id": 1,
+        "title": "Fjallraven - Mochila Foldsack No. 1, con capacidad para 15 portátiles",
+        "price": 109.95,
+        "description": "Tu mochila perfecta para el uso diario y los paseos por el bosque. Guarde su computadora portátil (hasta 15 pulgadas) en la funda acolchada, su uso diario",
+        "category": "men&#39;s clothing",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "discount_percentage": 0,
+        "discounted_amount": 0,
+        "final_price": 0,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "title": "Hombres Casual Slim Fit",
+        "price": 15.99,
+        "description": "El color podría ser ligeramente diferente entre la pantalla y la práctica. / Tenga en cuenta que la constitución corporal varía según la persona, por lo tanto, la información detallada sobre el tamaño debe revisarse a continuación en la descripción del producto.",
+        "category": "men&#39;s clothing",
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "discount_percentage": 0,
+        "discounted_amount": 0,
+        "final_price": 0,
+        "quantity": 1
+      },
+      {
+        "id": 8,
+        "title": "Búho Perforado Acero Inoxidable Chapado en Oro Rosa Doble",
+        "price": 10.99,
+        "description": "Pendientes tipo túnel acampanados dobles chapados en oro rosa. Hecho de acero inoxidable 316L",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "discount_percentage": 5,
+        "discounted_amount": 0.5495,
+        "final_price": 10.4405,
+        "quantity": 1
+      },
+      {
+        "id": 7,
+        "title": "Princesa chapada en oro blanco",
+        "price": 9.99,
+        "description": "Anillo de promesa de diamante solitario de compromiso de boda de creación clásica para ella. Regalos para mimar más tu amor para Compromiso, Boda, Aniversario, Día de San Valentín...",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "discount_percentage": 0,
+        "discounted_amount": 0,
+        "final_price": 0,
+        "quantity": 1
+      }
+    ],
+    "totalCompra": 146.37,
+    "fecha": "19/04/2024 7:18:12 PM"
+  },
+  {
+    "productosComprados": [
+      {
+        "id": 1,
+        "title": "Fjallraven - Mochila Foldsack No. 1, con capacidad para 15 portátiles",
+        "price": 109.95,
+        "description": "Tu mochila perfecta para el uso diario y los paseos por el bosque. Guarde su computadora portátil (hasta 15 pulgadas) en la funda acolchada, su uso diario",
+        "category": "men&#39;s clothing",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "discount_percentage": 0,
+        "discounted_amount": 0,
+        "final_price": 0,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "title": "Camisetas informales premium ajustadas para hombre ",
+        "price": 22.3,
+        "description": "Estilo ajustado, manga larga raglán en contraste, tapeta henley de tres botones, tejido ligero y suave para un uso transpirable y cómodo. Camisas con costuras sólidas y cuello redondo hechas para mayor durabilidad y comodidad. Ideal para ropa informal y fanáticos del béisbol. El escote redondo estilo Henley incluye una tapeta de tres botones.",
+        "category": "men&#39;s clothing",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "discount_percentage": 0,
+        "discounted_amount": 0,
+        "final_price": 0,
+        "quantity": 1
+      },
+      {
+        "id": 8,
+        "title": "Búho Perforado Acero Inoxidable Chapado en Oro Rosa Doble",
+        "price": 10.99,
+        "description": "Pendientes tipo túnel acampanados dobles chapados en oro rosa. Hecho de acero inoxidable 316L",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "discount_percentage": 5,
+        "discounted_amount": 0.5495,
+        "final_price": 10.4405,
+        "quantity": 7
+      }
+    ],
+    "totalCompra": 205.33,
+    "fecha": "19/04/2024 10:05:52 PM"
+  }
+]
